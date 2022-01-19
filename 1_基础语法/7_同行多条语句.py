@@ -1,0 +1,1 @@
+import sys; x='hello world'; sys.stdout.write(x)
