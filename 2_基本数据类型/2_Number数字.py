@@ -11,3 +11,26 @@ print(type(a), type(b), type(c), type(d))
 
 print(isinstance(a, int), isinstance(b, float), isinstance(c, bool),
       isinstance(d, complex))
+
+# 运算
+
+#加
+print(5 + 4)
+
+#减
+print(4.2 - 3)
+
+#乘
+print(2 * 3)
+
+# 除 输出浮点数
+print(2 / 4)
+
+#除 输出整数
+print(2 // 4)
+
+# 求余
+print(2 % 1)
+
+# 乘方
+print(2**2)
